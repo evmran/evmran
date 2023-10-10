@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @evmran
+- 👀 I’m interested in video Games, music produce and content creating
+- 🌱 I’m currently learning front-end develop and blockchain develop
+- 💞️ I’m love to be DeFi developer
